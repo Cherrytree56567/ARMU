@@ -1,2 +1,2 @@
-# REMU
- A Simple RISC-V Emulator in C++
+# ARMU
+A Simple ARM7TDMI-S Emulator in C++
